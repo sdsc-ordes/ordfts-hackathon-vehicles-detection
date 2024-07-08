@@ -1,10 +1,24 @@
 # ordfts-hackathon-athens-detection
-This is an example of a hackathon project making use of the pNeuma vision dataset
+
+> [!CAUTION]
+> This project is still under heavy development. 
+
+This is an example of a hackathon project presented to `ORD for the sciences hackathon` using the openly available [pNeuma vision dataset](https://zenodo.org/records/7426506). 
+
+- [Go here if you wanna know more about the hackathon](https://sdsc-hackathons.ch/)
+- [EPFL pNeuma project](https://open-traffic.epfl.ch)
 
 ## Roadmap
 
-- Dataloader from zenodo compress.
-- Dataloader from zenodo in parquet.
-- Benchmark timing of both dataloaders.
-- Segment anything (https://huggingface.co/facebook/sam-vit-base)
+- Dataloader from original zenodo
+    - https://zenodo.org/records/7426506
+
+- Dataloader from mounted s3 with original zenodo. 
+- Dataloader from parquet mirror in Zenodo using duckDB (to be uploaded).
+- Develop script/notebook to segment vehicles using third-party models. 
+    - Segment anything Base (https://huggingface.co/facebook/sam-vit-base)
+    - Segment anything Large (https://huggingface.co/facebook/sam-vit-large)
+- Technical benchmark comparing entire pipeline running time and other relevant parameters.
+- Model benchmark comparing segmentation quality.
 - Upload segmented frames to HF datasets (get DOI)
+
