@@ -1,4 +1,4 @@
-# ordfts-hackathon-athens-detection
+# ORD for the Sciences Hackathon - Vehicles Detection
 
 > [!CAUTION]
 > This project is still under heavy development. 
