@@ -1,0 +1,5 @@
+pandas
+pyarrow
+Pillow
+transformers
+huggingface_hub
