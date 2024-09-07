@@ -21,3 +21,4 @@ COPY . /app
 
 WORKDIR /app
 
+ENTRYPOINT bash

@@ -3,3 +3,5 @@ pyarrow
 Pillow
 transformers
 huggingface_hub
+ipywidgets
+datasets
