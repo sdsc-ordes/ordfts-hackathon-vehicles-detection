@@ -1,7 +1,7 @@
 # ORD for the Sciences Hackathon - Vehicles Detection
 
-[![launch - renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/v2/projects/hackathon-team-1/pneuma-vehicles-detection) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](sdsc-ordes/ordfts-hackathon-vehicles-detection/blob/main/002_vehicles_detection.ipynb)
- [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/sdsc-ordes/ordfts-hackathon-vehicles-detection) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12751861.svg)](https://doi.org/10.5281/zenodo.12751861) [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/katospiegel/ordfts-hackathon-pneuma-vehicles-segmentation)
+[![launch - renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/v2/projects/hackathon-team-1/pneuma-vehicles-detection) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sdsc-ordes/ordfts-hackathon-vehicles-detection/blob/main/002_vehicles_detection.ipynb)
+ [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/sdsc-ordes/ordfts-hackathon-vehicles-detection) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12751861.svg)](https://doi.org/10.5281/zenodo.12751861) [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg)](https://huggingface.co/datasets/katospiegel/ordfts-hackathon-pneuma-vehicles-segmentation)
 
 
 > [!CAUTION]
