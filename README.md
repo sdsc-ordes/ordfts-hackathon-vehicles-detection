@@ -22,7 +22,7 @@ The goal of this project is to create a training dataset derived from the public
 Datasets created:
 
 - [pneuma-vision-parquet](https://huggingface.co/datasets/katospiegel/pneuma-vision-parquet)
-- [ordfts-hackathon-pneuma-vehicles-segmentation](https://huggingface.co/datasets/katospiegel/ordfts-hackathon-pneuma-vehicles-segmentation)
+- [ordfts-hackathon-pneuma-vehicles-segmentation](https://huggingface.co/datasets/katospiegel/ordfts-hackathon-pneuma-vehicles-segmentation) (doi:10.57967/hf/3028)
 
 
 ## How is structured this repository?
